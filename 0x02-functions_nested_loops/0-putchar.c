@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <main.h>
 /**
  * main - to print a string of characters using putchar
  * Return: 0
